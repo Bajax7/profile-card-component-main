@@ -5,6 +5,7 @@
  box-sizing: border-box;
 }
 body{
+    background-color: #1AA1AD;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -61,7 +62,7 @@ body{
 }
 .top-pattern{
     position:absolute;
-    top:-667px;
+    top:-562px;
     left:-300px;
 }
 .bottom-pattern{
